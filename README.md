@@ -99,8 +99,8 @@ Para quando o `app` estiver pronto, ele criará a janela
 
 Você pode encontrar o código resultante [aqui](https://github.com/DevRadhy/Web-view/blob/master/index.js)
 ___
-### Código resultante
+### Resultado
 
-seu resultado deve fica como esse
+Seu resultado deve fica como esse
 
-![image](https://user-images.githubusercontent.com/50425715/82764797-fca68880-9de7-11ea-9bb6-2ba7658d5c8f.png)
+![image](https://user-images.githubusercontent.com/50425715/82765335-46916d80-9dec-11ea-867e-080c32a507bf.png)
