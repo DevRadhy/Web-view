@@ -79,7 +79,7 @@ Você adicionará também o seguinte:
 ```js
 app.whenReady().then(createWindow);
 ```
-Para quando o `app` estiver pronto, ele criará a janela
+Para quando o `app` estiver pronto, ele criar a janela
 
 ### Configurações adicionais para MacOS
 
@@ -100,6 +100,11 @@ Para quando o `app` estiver pronto, ele criará a janela
 Você pode encontrar o código resultante [aqui](https://github.com/DevRadhy/Web-view/blob/master/index.js)
 ___
 ### Resultado
+
+Para iniciar seu projeto, basta por o seguinte comando no `cmd`
+```js
+npm start
+```
 
 Seu resultado deve ficar como esse
 
