@@ -101,6 +101,6 @@ Você pode encontrar o código resultante [aqui](https://github.com/DevRadhy/Web
 ___
 ### Resultado
 
-Seu resultado deve fica como esse
+Seu resultado deve ficar como esse
 
 ![image](https://user-images.githubusercontent.com/50425715/82765335-46916d80-9dec-11ea-867e-080c32a507bf.png)
